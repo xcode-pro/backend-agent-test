@@ -10,6 +10,8 @@ javac src/Main.java
 
 ## Run
 
+The final argument is the target value; all preceding values are the array to search.
+
 ```bash
 java -cp src Main 1 2 3 4 5 3
 ```
